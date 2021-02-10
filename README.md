@@ -24,19 +24,19 @@ Feel free to use any library you like.
   "characters": [
     {
       "name": "Luke Skywalker",
-      "url": "https://swapi.co/api/people/1/"
+      "url": "https://swapi.dev/api/people/1/"
     },
     {
       "name": "C-3PO",
-      "url": "https://swapi.co/api/people/2/"
+      "url": "https://swapi.dev/api/people/2/"
     },
     {
       "name": "Leia Organa",
-      "url": "https://swapi.co/api/people/unknown/"
+      "url": "https://swapi.dev/api/people/unknown/"
     },
     {
       "name": "R2-D2",
-      "url": "https://swapi.co/api/people/3/"
+      "url": "https://swapi.dev/api/people/3/"
     }
   ]
 }
